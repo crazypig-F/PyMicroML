@@ -19,8 +19,7 @@ The following data is required for analysis:
 
 ## Environment Requirements
 
-- Python ≥ 3.8
-- R ≥ 4.0
+- Python ≥ 3.7
 
 ### Python Dependencies:
 
