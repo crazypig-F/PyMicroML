@@ -35,7 +35,7 @@ The following data is required for analysis:
 
 ##  🚀 Analysis Workflow
 
-2. **Correlation Network Analysis**
+1. **Correlation Network Analysis**
 
    - Calculate the correlation coefficients (Spearman/Pearson) between microbes and metabolites.
    - Build networks and select key microbes (ASVs).
@@ -50,13 +50,13 @@ The following data is required for analysis:
 
 3. **Feature Selection: Machine Learning Algorithms**
 
-- Supported algorithms include:
-  - Bagging
-  - Random Forest
-  - XGBoost
-  - AdaBoost
-  - Extra Trees
-- Select the optimal number of ASV features and fermentation parameters combinations
+   - Supported algorithms include:
+     - Bagging
+     - Random Forest
+     - XGBoost
+     - AdaBoost
+     - Extra Trees
+   - Select the optimal number of ASV features and fermentation parameters combinations
 
 4. **Constructing a predictive model of flavor metabolites**
 
